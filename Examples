@@ -1,0 +1,11 @@
+SRH-AI-V∞/
+├── examples/
+│   ├── test_numpy.py
+│   ├── test_sympy.py
+│   ├── test_qiskit.py
+│   └── test_visual.py  # ¡Nuevo ejecutable!
+├── espiral.py          # Archivo CORREGIDO (ver abajo)
+├── main.py             # Punto de entrada principal
+├── srh_numpy.py
+├── srh_visual.py       # Versión corregida
+└── requirements.txt
